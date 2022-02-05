@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hello there! My name is Elia Togni - AKA Bonsoir.Elio.T ###
 
-<!--
-**EliaTogni/EliaTogni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm currently a Computer Science student at Università degli Studi di Milano ####
 
-Here are some ideas to get you started:
+### Connect with me ###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="Linktree" src="https://logodownload.org/wp-content/uploads/2019/09/linktree-logo-0.png"  width="100" height="80"/>][website]
+
+<br />
+<br />
+<br />
+
+---
+
+
+<br />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliaTogni&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+[website]: https://linktr.ee/Bonsoir.Elio.T
+
