@@ -1,4 +1,4 @@
-### Hello there! My name is Elia Togni - AKA Bonsoir.Elio.T ###
+### Hello there! My name is Elia Togni - AKA Bonsoir_Elio_T ###
 
 #### I'm currently a Computer Science student at Università degli Studi di Milano ####
 
@@ -17,5 +17,5 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliaTogni&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-[website]: https://linktr.ee/Bonsoir.Elio.T
+[website]: https://linktr.ee/bonsoir_elio_t
 
