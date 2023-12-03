@@ -1,10 +1,9 @@
-### Hello there! My name is Elia Togni - AKA Bonsoir_Elio_T ###
+### Hello there! My name is Elia Togni - AKA Bonsoir_Elio_T
 
 #### I'm currently a Computer Science student at Università degli Studi di Milano ####
 
-### Connect with me ###
-
-[<img align="left" alt="Linktree" src="https://logodownload.org/wp-content/uploads/2019/09/linktree-logo-0.png"  width="100" height="80"/>][website]
+### Connect with me:
+[<img align="left" alt="Linktree" src="https://logodownload.org/wp-content/uploads/2019/09/linktree-logo-0.png"  width="100" height="90"/>][website]
 
 <br />
 <br />
