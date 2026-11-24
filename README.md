@@ -1,21 +1,8 @@
-### Hello there! My name is Elia Togni - AKA Bonsoir_Elio_T
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EliaTogni/EliaTogni/output/city-dark.svg">
+  <img alt="Elia Togni's GitHub contributions over the last year, drawn as a 3D city: one building per day, taller on busier days." src="https://raw.githubusercontent.com/EliaTogni/EliaTogni/output/city-light.svg">
+</picture>
 
-#### I'm currently a Computer Science student at Università degli Studi di Milano ####
-
-### Connect with me:
-[<img align="left" alt="Linktree" src="https://logodownload.org/wp-content/uploads/2019/09/linktree-logo-0.png"  width="100" height="90"/>][website]
-
-<br />
-<br />
-<br />
-<br />
-
----
-
-
-<br />
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliaTogni&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-[website]: https://linktr.ee/bonsoir_elio_t
-
+**Elia Togni** — Full-stack developer & AI specialist · Brescia\
+Kotlin · Compose Multiplatform · Ktor · Flutter\
+[eliatogni.github.io](https://eliatogni.github.io)
